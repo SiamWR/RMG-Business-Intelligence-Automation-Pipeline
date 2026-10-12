@@ -32,13 +32,6 @@ Power Automate
         ↓
 Automated Report Distribution
 ```
-# RMG Business Intelligence Automation Pipeline
-
-An end-to-end Business Intelligence and automation project for transforming Ready-Made Garment (RMG) production data into structured business insights, interactive dashboards, and automated management reports.
-
-**Tech Stack:** Python · Pandas · Faker · PyODBC · SQL Server · Power BI · Power Automate · Windows Task Scheduler · Git · GitHub
-
----
 
 ## Objectives
 
