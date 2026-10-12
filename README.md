@@ -66,7 +66,7 @@ Automated Report Distribution
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The project follows a layered architecture connecting data processing, database management, business intelligence, and automation.
 
